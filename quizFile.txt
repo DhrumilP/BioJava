@@ -1,0 +1,17 @@
+A version of a characteristic that is inherited, such as hair colour or blood type
+A cross designed to study the inheritance of only one trait
+A specific form of a gene
+Describes an individual that carries two of the same alleles for a given characteristic 
+Describes an individual that carries two different alleles for a given characteristic 
+The genetic makeup of an individual
+An individual’s outward appearance with respect to a specific characteristic
+The allele that, if present, is always expressed 
+The allele that is expressed only if it is not in the presence of the dominant allele
+A diagram that summarizes every possible combination of each allele from each parent
+A situation where an allele will determine the phenotype, regardless of the presence of another allele
+A situation where neither allele dominates the other and both have an influence
+A situation where both alleles are expressed fully to produce offspring with a third phenotype
+Inheritance of alleles located on autosomal (non-sex) chromosomes 
+Describes an allele that is found on one of the sex chromosomes, x or y
+Phenotypic expression of an allele that is found on the x chromosome
+A cross that involves two genes, each consisting of heterozygous alleles
